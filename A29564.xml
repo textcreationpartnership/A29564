@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A trve and impartiall relation of the battaile betwixt His Majesties army and that of the rebells neare Newbury in Berk-shire, Sept. 20, 1643 with the severall actions of the Kings army since His Maiesties removing it from before Gloucester : sent in a letter from the army to a noble lord.</title>
+            <author>Bristol, George Digby, Earl of, 1612-1677.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29564</idno>
+            <idno type="STC">Wing B4777</idno>
+            <idno type="STC">ESTC R205220</idno>
+            <idno type="EEBO-CITATION">16960943</idno>
+            <idno type="OCLC">ocm 16960943</idno>
+            <idno type="VID">105488</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29564)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105488)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1610:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A trve and impartiall relation of the battaile betwixt His Majesties army and that of the rebells neare Newbury in Berk-shire, Sept. 20, 1643 with the severall actions of the Kings army since His Maiesties removing it from before Gloucester : sent in a letter from the army to a noble lord.</title>
+                  <author>Bristol, George Digby, Earl of, 1612-1677.</author>
+               </titleStmt>
+               <extent>[2], 9 p.   </extent>
+               <publicationStmt>
+                  <publisher>by [L. Lichfield],</publisher>
+                  <pubPlace>[Oxford] printed :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to George Digby by Wing and NUC pre-1956 imprints.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Newbury (England) --  History.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105488:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 60 -->
+            <p>
+               <hi>A</hi> TRUE AND IMPARTIALL Relation of the BATTAILE BETWIXT, <hi>HIS MAJESTIES</hi> ARMY and that of the REBELLS, neare <hi>Newbury</hi> in <hi>Berk-ſhire,</hi> Sept. 20. 1643.</p>
+            <p>WITH The ſeverall Actions of the KINGS Army ſince HIS MAJESTIES remo<g ref="char:EOLhyphen"/>ving it from before <hi>Gloucester.</hi>
+            </p>
+            <p>Sent in a Letter from the Army to a Noble LORD.</p>
+            <p>
+               <hi>Printed,</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:105488:2"/>
+            <!-- PDF PAGE 61 -->
+            <pb n="1" facs="tcp:105488:2"/>
+            <!-- PDF PAGE 61 -->
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Have omitted all this laſt Week to give your Lordſhip an accompt of the condition of His Ma<g ref="char:EOLhyphen"/>jeſties affaires here; every day (till theſe three laſt) having produced little in effect, but much in expectation. But now that the long lookt for <hi>Criſis</hi> of a Battail is over, I have thought in fit to informe your Lordſhip, not only of the ſucceſſe and circumſtances of that, but alſo of the ſteps and progreſſe to it, being doubly obliged ſo to doe, in relation to His Majeſties ſervice, as well as in what I owe to your Lordſhips ſatisfaction, both which I find in as much danger of ſuffering by ſome of our own parties, charging the conduct of His Majeſties deſignes with raſhneſſe and im<g ref="char:EOLhyphen"/>prudence, as in the Rebells perverting the truth of the ſuc<g ref="char:EOLhyphen"/>ceſſe of His Armies, by their uſuall arts of falſity by which they have hitherto ſtill appeared able to make better uſe of De<g ref="char:EOLhyphen"/>feates, then we of Victories.</p>
+            <p>Your Lordſhip may be pleaſed to underſtand, that the Earle of <hi>Eſsex</hi> having deſcended with his Army into the Vale of <hi>Glou<g ref="char:EOLhyphen"/>cester,</hi> before the King could well draw His from the Siege up to the hilles to fight with him, it was not thought fit to follow him into the incloſed Country, where the King ſhould looſe the great advantage he had above him in ſtrength of horſe, but rather to make choice of ſuch a place to incamp his Army as might be apteſt for theſe three ends: to accommodate his Quar<g ref="char:EOLhyphen"/>ters; to ſtrengthen him in Proviſions; and equally to intercept
+<pb n="2" facs="tcp:105488:3"/>
+               <!-- PDF PAGE 62 -->his flight a faire Country; whether he ſhould take it by the way of <hi>Worceſter</hi> to wards <hi>Warwick,</hi> or by the way of <hi>Cyren<g ref="char:EOLhyphen"/>ceſter</hi> towards <hi>Reading,</hi> and to theſe purpoſes, the Towne of <hi>Winchcombe</hi> and <hi>Sudely</hi> Caſtle were made choyce of as the moſt appropriate. But after two daies lodging there, (the Queenes Regiment having in their coming to that Quarter defeated one of the Earles beſt Regiments of Horſe of <hi>Dutch<g ref="char:EOLhyphen"/>men,</hi> commanded by one <hi>Blaire</hi>) upon intelligence that the Earle was advanced as farre as <hi>Teuxbury</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>pton</hi> bridge, (whereby it was made probable unto us, that he intended <hi>Warwick</hi> way) the King removed his Army to <hi>Eveſham;</hi> from whence (having beaten up a Quarter of theirs) we were quickly hurried by the newes that <hi>Eſſex</hi> had faced about, and had in the night, with great ſilence, ſecrecy, and ſtrange dili<g ref="char:EOLhyphen"/>gence, almoſt gained <hi>Cirenceſter,</hi> and ſurprized two new rai<g ref="char:EOLhyphen"/>ſed Regiments of ours there, before we could get any certain notice of his motions: having left (as it ſeems) moſt of his great Ordnance and baggage behind him, and amuſing us with a ſhew of Forces ſtill in <hi>Teuxbury</hi> and <hi>Vpton,</hi> which were (as I conceive) thoſe now remaining in Garriſon at <hi>Gloceſter.</hi> Vpon certainty of his remove on the Thurſday, our whole Ar<g ref="char:EOLhyphen"/>my on the Saturday morning marcht after him, our Horſe with ſuch diligence, that on the Sunday night they Quartered with<g ref="char:EOLhyphen"/>in ſix miles of him, he at <hi>Suningdon,</hi> we about <hi>Farringdon.</hi> Vp<g ref="char:EOLhyphen"/>on the Munday morning Colonell <hi>
+                  <g ref="char:V">Ʋ</g>rrey,</hi> with a partee of a Thouſand commanded men, was ſent to follow them in the Reare from their Quarters, whileſt Prince <hi>Rupert</hi> with the body of the Cavalry drew over the directeſt way to meet him, and it was our good luck to croſſe his Army juſt as our party had overtaken it upon the open Downe, two miles on the Northweſt ſide of <hi>Aubourne,</hi> the Rebells diſcrying us, drew up in Battalia, leaving only a body of ſome two hundred Horſe upon a hill ſomewhat diſtant from the groſſe of their Army, which we found means ſo to ſteale upon with <hi>
+                  <g ref="char:V">Ʋ</g>rries</hi> party, as to charge and rout them, and taking two Coronets and kil<g ref="char:EOLhyphen"/>ling Forty or Fifty men, without any loſſe on our part; we beat them into their Foot &amp; Cannon, upon which occaſion we diſ<g ref="char:EOLhyphen"/>covered
+<pb n="3" facs="tcp:105488:3"/>
+               <!-- PDF PAGE 62 -->ſuch evident ſymptomes of feare and diſtraction in their whole Army, as that the Prince was well nigh tempted from his temper, and was once reſolved to have charged (with 3000 horſe alone,) their whole Army, co<g ref="char:cmbAbbrStroke">̄</g>ſiſting of 2000 horſe and 5000 Foot at leaſt, and ſtore of Cannon: But newes arriving at the inſtant that our Foot was, beyond expe<g ref="char:EOLhyphen"/>ctation, advanced within 6 or 7 miles of us, it impoſed upon his Highneſſe prudence this caution, not to adve<g ref="char:cmbAbbrStroke">̄</g>ture upon halfe our ſtrength that reſt, which the next day he might be ſure to fight for with double power: upon which conſideration he made a ſtand, reſolving that night only to attend them and hin<g ref="char:EOLhyphen"/>der their March. We had not ſtood long when we diſcovered that the Enemy prepared for a retreat, and by degrees drew away there baggage firſt, then their Foot leaving their horſe at a good diſtance from them. The Prince his Deſign hereupon was to have charged them, when halfe their Forces ſhould have beene drawne off the field into thoſe Lanes, whereinto their baggage was already advanced, but their motions being ſo very ſlow, and the night drawing on, upon ſecond thoughts his Highneſſe judg'd it the beſt courſe to trye, if (by a ſmall partee) be could ingage their horſe, which was then grown to be at a good diſtance from their Foot: this Partee he co<g ref="char:cmbAbbrStroke">̄</g>mitted to the care of <hi>
+                  <g ref="char:V">Ʋ</g>rrey,</hi> with two Regiments only neare at hand to ſecond him, keeping the Body of his Horſe at ſuch a diſtance, as might incourage the Enemy to venture on that ſever'd part, which they did, with a little too much incouragement, for (to ſay the truth) the Regiments that ſhould have ſeconded <hi>
+                  <g ref="char:V">Ʋ</g>r<g ref="char:EOLhyphen"/>rey,</hi> not doing their parts ſo well as they ought, forced his Par<g ref="char:EOLhyphen"/>tee alſo to make ſomewhat a diſorderly retreat, and the Prince to ſend haſty ſuccours to them, which the Queenes Regiment (Commanded by my Lord <hi>Iermyn</hi>) was ordered to doe, which his Lordſhip performed with much gallantry, being received very ſteadily, by a ſtrong body of the Enemies horſe, and with a compoſedneſſe in the Officer that commanded them very re<g ref="char:EOLhyphen"/>markably. For his Lordſhip advancing before his Regiment, with the Marqueſſe <hi>de la Vieuville</hi> on the one hand, &amp; the L<hi rend="sup">d</hi> 
+               <hi>Digby</hi> on the other (the Enemies Volley of Carabines given
+<pb n="4" facs="tcp:105488:4"/>
+               <!-- PDF PAGE 63 -->them ſmartly at leſſe them 10. yards) being paſt, the Co<g ref="char:cmbAbbrStroke">̄</g>mander ſomewhat forwarder then the reſt, was plainly ſeene to prye into their countenances, and removing his leavell from one to another to diſcharge his Piſtoll as it were by election at the L<hi rend="sup">d</hi> 
+               <hi>Digbyes</hi> head, but without any more hurt, (ſaving only the burning of his face) than he himſelfe received by my L<hi rend="sup">d</hi> 
+               <hi>Jer<g ref="char:EOLhyphen"/>myn's</hi> ſword, who (upon the Lord <hi>Digbyes</hi> Piſtoll miſſing fire) ran him with it in to the back, but he was as much beholding to his Armes there, as the Lord <hi>Digby</hi> to his head-peece. Im<g ref="char:EOLhyphen"/>mediately upon this ſhocke, the Queenes Regiment was ſo charged in the reare by a freſh body of theirs, that the greateſt part of it, ſhifting for themſelves, the Lord <hi>Iermyn,</hi> accompa<g ref="char:EOLhyphen"/>nied with the French Marqueſſe, and the Officers only of his Regiment, thought it as ſafe a way as well as the moſt honou<g ref="char:EOLhyphen"/>rable, to venture forwards through their whole Army, rather then to Charge back through thoſe that had inviron'd him, and ſo with admirable ſucceſſe (the unhappy loſſe of that gallant Marqueſſe excepted) he brought 4 Colours &amp; all his Officers off ſafe, having made their way round, through the groſſe of the Enemies Foot. The Lord <hi>Digby</hi> being ſtonn'd, and for the preſent blinded with his ſhot, was fortunately reſcued out of the middle of a Regiment of the Enemies by a brave Charge, which Prince <hi>Rupert</hi> in Perſon made upon them with his owne Troop, wherein his Highneſſe Horſe was ſhot in the head under him, but yet, by Gods bleſſing, brought him off; and ſo the Enemies horſe being beaten quite up to their Foot and Cannon, the night comming upon us, gave a period to that acti<g ref="char:EOLhyphen"/>on. That night we quarter'd in the Field, ſome 2 miles diſtant from the Enemy, who by the next morning was ſtolen away as farre as <hi>Hungerford:</hi> whereupon, the Prince conjecturing rightly the courſe they would hold, drew his Horſe the dire<g ref="char:EOLhyphen"/>cteſt way towards <hi>Newbury,</hi> aſſigning the Foot alſo their Ren<g ref="char:EOLhyphen"/>dezvous there that night, where, luckily, they met in the Eve<g ref="char:EOLhyphen"/>ning, at the ſame inſtant that the Earle of <hi>Eſſex</hi> his Army ap<g ref="char:EOLhyphen"/>peared within a mile of the Towne with little thought (as I conceive) of finding his intended quarter ſo prepoſſeſt: upon ſight of our Army they retreated into certaine hedges and fast<g ref="char:EOLhyphen"/>nesses,
+<pb n="5" facs="tcp:105488:4"/>
+               <!-- PDF PAGE 63 -->a mile &amp; halfe diſtant from <hi>Newbury</hi> weſtward. The Re<g ref="char:EOLhyphen"/>bells thus happily overtaken in their flight, co<g ref="char:cmbAbbrStroke">̄</g>ſultation was held of the way to prevent their farther evading us, &amp; it was reſol<g ref="char:EOLhyphen"/>ved on for the beſt, to draw all the Kings Army that night into a large field on the other ſide of <hi>Newbury,</hi> adjoyning to thoſe cloſes where the Enimy had made this hault, to the end that we might be in readineſſe to preſſe upon the firſt motions of theirs. The night was paſt in much uncertainty, but with o<g ref="char:EOLhyphen"/>pinion on our part, that they were marcht away. The next morning being Wedneſday the 20. of <hi>Sept.</hi> by break of day; (in ſtead of the flight which upon all their former proceedings we had reaſon to expect) we diſcovered them ſetled in the moſt advantagious way imaginable of receiving us, whether invited to it by the extraordinary advantages of the place, or ingaged to it by the deſpaire of eſcaping us by a Retreat, I know not, but there we found them, their Foot, their Horſe, &amp; their Cannon planted with much skill, not only for moleſting us and preſerving themſelves, but even for temptation to us to aſſayle them upon thoſe diſadvantages. For having lodged their Baggage and Principall Reſerve both of Horſe and Foot upon a hillſide under a Wood neer <hi>Hampſted,</hi> fenced by Hed<g ref="char:EOLhyphen"/>ges and Ditches inacceſſable, but by ſuch and ſuch paſſes, and having diſpoſed another principall part of their ſtrength be<g ref="char:EOLhyphen"/>twixt that and a place called <hi>Enbourne,</hi> in ſtrong hedges, and houſes, with apt Batteries on both ſides, for bravado ſake, or to invite us, they had drawn out into Battalia into little Heath on the South-ſide of <hi>Enbourne</hi> three bodies of foot, both lined and flanked with ſtrong bodies of Horſe, and under favour of Cannon, ſo as that upon all occaſions they might conveniently power out thither from their holds what new ſtrength they pleaſed, or, if beaten, might have a ſafe retreat into the adjoyn<g ref="char:EOLhyphen"/>ing faſtneſſes, which nature and they had both ſo well ſecured, they being ſo advantagiouſly placed for fight, and ſo diſadvan<g ref="char:EOLhyphen"/>tagiouſly for ſubſiſtence, we having <hi>Newbury</hi> at our backs to ſuſteine us, and ſo many more Horſe then they to cut off provi<g ref="char:EOLhyphen"/>ſions. It may well occurre to your Lordſhip, to queſtion why
+<pb n="6" facs="tcp:105488:5"/>
+               <!-- PDF PAGE 64 -->(ſince it doth to ſo many more to cenſure that) we did not indeavour to combate them ſo by their neceſſityes as to oblige them for want of ſuſtenance to retreat over ſome more equall country, rather then to aſſayle them upon ſuch dangerous oddes of ſcituation. The anſwer to this objection by way of excuſe, that we were in ſome ſort to lead on, and ingaged by the tempting proſpect of that little Battalia I men<g ref="char:EOLhyphen"/>tioned upon the Heath; and by way of juſtification I am to tell you, that there was within the Enemies dominion a round hill not ſuſpected nor obſerved by us the night before, from whence a battery would command all the plain before <hi>New<g ref="char:EOLhyphen"/>bury,</hi> where the Kings Army ſtood, inſomuch that unleſse we poſseſt our ſelves of that hill, there was no holding of that Field, but the King muſt have retreated with his Army thence, the diſhonour of which, I beleeve you will eaſily conſent ought to outweigh the hazard of attempting them, and (to ſay the truth) even without their having that hill, the Kings Per<g ref="char:EOLhyphen"/>ſon was expoſed all day to much more hazard of the Cannon them was fitting, the Rebells imploying it very freely where ever by any ſignes they could diſcover his preſence. This hill and that heath I mention'd, were the two eminent ſceanes of all that dayes action, from 7 a clock in the morning till 7 at night, except only one attempt made by them from their grand Reſerve upon a paſse on our right hand neare the River poſseſt by the Kings Life-guards, in which they were repulſed. The iſſue of the Battaile on the heath (firſt begunne, and quickly en<g ref="char:EOLhyphen"/>ded) was a totall routing of their horſe, the poſſeſſing of five peeces of Cannon there, though able to bring off but one of them, the forcing the Foot to retreat into their ſtrength, though unbroken, for (give them their due) they ſhewed themſelves like good men, and laſtly the gaining and holding the place.</p>
+            <p>This action was done meerly by our Horſe, for (to ſay truth) our Foot having found a hillocke in the heath that ſheltered them from the Enemies Cannon, would not be drawne a foot from thence. The Generall and Prince <hi>Ruperts</hi> perſonall pre<g ref="char:EOLhyphen"/>ſence
+<pb n="7" facs="tcp:105488:5"/>
+               <!-- PDF PAGE 64 -->and conduct, contributed much to this good ſucceſſe, as alſo the Lievtenant general <hi>Willmots.</hi> Chief Officers of horſe, that bore a principall part in the action it ſelfe, were my Lord of <hi>Carnarvon,</hi> Colonell <hi>Gerard,</hi> Sir <hi>Charles Lucas,</hi> the Earle of <hi>Northampton,</hi> the Lord <hi>Chandois,</hi> and <hi>Daniell Oneale.</hi> To name them all that did eminently there, were to give you a Catalogue of all our Gentlemen of quality there preſent: for there is ſcarcely any that did not behave himſelfe remarkably. Perſons of note killd there, were, the Earle of <hi>Carnarvon,</hi> the Earle of <hi>Sunderland,</hi> Colonell <hi>Morgan,</hi> Lievtenant Colonell <hi>Feilding,</hi> and ſome more Volunteeres, whoſe name I cannot collect, amongſt the reſt, Sir <hi>George Strodes</hi> eldeſt Sonne, a Valiant and an ingenuous young man; Perſons of note hurt, of prime Officers, the Lord <hi>Andover,</hi> S<hi rend="sup">r</hi> 
+               <hi>Charles Lucas,</hi> Colonell <hi>Charles Gerard,</hi> and Colonell <hi>Ivers.</hi> Of lower Officers, abun<g ref="char:EOLhyphen"/>dance, but none that I heare either of them or theſe dange<g ref="char:EOLhyphen"/>rouſly. Of Volunteeres, the Earle of <hi>Peterborough,</hi> and M<hi rend="sup">r</hi> 
+               <hi>John Ruſſell,</hi> M<hi rend="sup">r</hi> 
+               <hi>Edward Sackvile,</hi> M<hi rend="sup">r</hi> 
+               <hi>Henry Howard, George Porter,</hi> with many more.</p>
+            <p>The action of the hill was carried with as much bravery both by our Horſe and Foot as on the Heath by the Horſe alone, the Foot Commanded by Sir <hi>Nicholas Byron,</hi> the Horſe by Sir <hi>John Byron,</hi> who after ſix houres (the hotteſt diſpute that hath beene ſeene) gain'd it from my Lord of <hi>Eſſex</hi> his owne guards that had poſſeſt it, enjoyed it quietly many houres, and in the end (the Enemy ſetting up his reſt to re<g ref="char:EOLhyphen"/>gaine it, after as hot a fight as at their taking it) repulſed him, and kept it ſtill.</p>
+            <p>Officers of note hurt there, were Colonell <hi>Darcy, George Liſle,</hi> and <hi>Ned Villiers,</hi> and the Lord Viſcount <hi>Falkland</hi> (vo<g ref="char:EOLhyphen"/>lunteering it with too much bravery) unfortunately killed, I may have omitted many perſons as eminent in their actions that day, as ſome of theſe I have named, but it being ſo endleſſe a task to nominate all, I have only particularized ſuch as I conceive to be of your Lordſhips acquaintance.</p>
+            <p>Your Lordſhip doth not expect that I ſhould tell you of no<g ref="char:EOLhyphen"/>ble
+<pb n="8" facs="tcp:105488:6"/>
+               <!-- PDF PAGE 65 -->men killed on the othe ſide, nor much of Gentry, but of ſuch things as they call Officers, their Priſoners aſſure us con<g ref="char:EOLhyphen"/>curringly, that the moſt and principall of them are ſlaine. The night comming upon us ſoon after the Enimies finall repulſe from that hill, the King drew all his Army up to the top of the heath, keeping poſſeſſion both of that, and of the hill till to<g ref="char:EOLhyphen"/>wards night; at which time, His Horſe and Foot, being ex<g ref="char:EOLhyphen"/>treamly tyred, and beeing probably informed that the Enimy had retreated with their carriages, and a principall part of their Army, it was thought ſit to draw his Horſe into Quarters on the other ſide of the River, and His foot into the Towne, prin<g ref="char:EOLhyphen"/>cipally to refreſh them, and to inable them for the next daies purſuit, but in part (for J will conceale nothing from your Lordſhip) to make a Bridge to a flying Enimy, leaſt indeed too great a deſpaire of retreat, might have made them opinia<g ref="char:EOLhyphen"/>te a ſecond fight in that diſadvantagious place, where having not (to tell you the truth) Powder enough left for halfe ſuch another day, having ſpent foure ſcore barrells in it, threeſcore more then had ſerved the turne at <hi>Edge-hill,</hi> nor could we be aſſured that the ſupply from <hi>Oxford</hi> of 100. Barrells more could come to us till the next day at noon.</p>
+            <p>Thus my Lord have I given your Lordſhip as true an ac<g ref="char:EOLhyphen"/>compt as I can, of Gods bleſſing upon the juſtice of His Maje<g ref="char:EOLhyphen"/>ſties Armies that day, which (conſidering the diſadvantages we fought upon) may well be counted in it selfe a happy ſucceſſe, but in the effects it hath ſince had in our purſuit of my Lord of <hi>Eſſex,</hi> our defeating, in that pursuit, his two beſt remaining Regiments of Horſe, our diſſipating in ſo great a meaſure his Army, and ſending the Rebells back with ſo much terrour, to their neſt <hi>(London,)</hi> may well be reputed a great victory; and yet I am confident that our having gained the Field, Colours, Cannon, ſtore of Priſoners, from them, beaten them from all places, that we under took, repulſed them from all that they at<g ref="char:EOLhyphen"/>tempted, our having execution on them in their flight', and all this with the loſſe of halfe their numbers, and the confeſt en<g ref="char:EOLhyphen"/>ſignes of a battaile gained; will not have kindled lighter bone<g ref="char:EOLhyphen"/>fires
+<pb n="9" facs="tcp:105488:6"/>
+               <!-- PDF PAGE 65 -->with us in joy and thankeſgiving, then with the remain<g ref="char:EOLhyphen"/>ing Rebells in hopes yet farther to abuſe the people, by paſ<g ref="char:EOLhyphen"/>ſing ſtill upon them deliverancies for Victories.</p>
+            <closer>
+               <dateline>From <hi>NEWBURY</hi> 
+                  <date>this 22. of Sept. 1643.</date>
+               </dateline>
+               <signed>Your Lordſhips moſt humble Servant.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
